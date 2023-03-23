@@ -5,7 +5,7 @@ function Home() {
   return (
     
     <div className='pt-[100px] w-screen '>
-        <img classNaame=' bg-[#004DB3]' src ={Hero} alt =""/>
+        <img classNaame='bg-[#004DB3]' src ={Hero} alt =""/>
     </div>
   )
 }
