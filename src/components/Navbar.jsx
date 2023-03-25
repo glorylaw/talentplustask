@@ -20,7 +20,7 @@ function Navbar() {
     </ul>
     </div>
     <div className='hidden md:flex pr-4'>
-    <button className='px-4 py-3 mt-2'>Enroll Now</button>
+    <button className='px-8 py-3 mt-2 mb-4'>Enroll Now</button>
     </div>
     <div className='md:hidden' onClick={handleClick}>
       {!nav ? <MenuIcon className='w-5 pt-5 text-white'/>:<XIcon className='w-5 pt-5 text-white'/>}

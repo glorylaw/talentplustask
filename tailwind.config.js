@@ -10,6 +10,9 @@ module.exports = {
       "2xl": "1538px"
 
     },
+    fontFamily: {
+      'Clash Display': ['Clash Display', 'sans-serif']
+    },
   },
   plugins: [],
 }
